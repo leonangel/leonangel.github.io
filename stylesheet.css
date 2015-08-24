@@ -5,6 +5,7 @@ p {
 	margin-top: 8px;
 	padding-left: 80px;
 }
+#profilepic {border-style: solid; border-color: black; border-width: 8px;}
 h1 {
 	font-family: sans-serif;
 	font-size: 34px;
@@ -12,5 +13,6 @@ h1 {
 	padding-left: 80px;
 }
 #contact_form {
+	font-size: 24px;
 	padding-left: 80px;
 }
